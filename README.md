@@ -14,7 +14,7 @@ Boss can gain uber or drug in their quiz. Duration can be set in the boss config
 
 `./spcomp vsh2_boss_mathking.sp`
 
-### Dependencies
+### Dependencies for compiling.
 
 [VSH2](https://github.com/VSH2-Devs/Vs-Saxton-Hale-2)
 
