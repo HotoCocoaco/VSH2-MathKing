@@ -22,7 +22,7 @@ Boss can gain uber or drug in their quiz. Duration can be set in the boss config
 
 [Morecolors](https://forums.alliedmods.net/showthread.php?t=185016)
 
-### Credits
+## Credits
 
 - Most of the math codes are from Arkarr.
 - [VSH2-TemplateMaker](https://github.com/01Pollux/VSH2-TemplateMaker) by 01Pollux.
