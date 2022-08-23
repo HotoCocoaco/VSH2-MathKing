@@ -21,3 +21,8 @@ Boss can gain uber or drug in their quiz. Duration can be set in the boss config
 [VSH2's Stocks](https://github.com/VSH2-Devs/Vs-Saxton-Hale-2/blob/develop/addons/sourcemod/scripting/modules/stocks.inc) which you will have in the include folder if you compile vsh2 yourself.
 
 [Morecolors](https://forums.alliedmods.net/showthread.php?t=185016)
+
+### Credits
+
+- Most of the math codes are from Arkarr.
+- [VSH2-TemplateMaker](https://github.com/01Pollux/VSH2-TemplateMaker) by 01Pollux.
